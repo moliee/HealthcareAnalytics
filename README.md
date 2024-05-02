@@ -1,4 +1,7 @@
 # Healthcare Analytics
-This repository includes samples of exporatory data analysis, visualizations with poublicy available healthcare data. 
+This repository includes samples of exploratory data analysis, and visualizations with publicly available healthcare data. 
+
 # Python libraries used: 
 seaborn, matplotlib, pandas, numpy
+
+
